@@ -1,0 +1,167 @@
+#clockcontainer{
+   position: relative;
+   background-color: black; 
+   border-style: double;
+   border-radius: 50%;
+   background-repeat: no-repeat;
+   border-radius: 50%;
+   height:40vw;
+   width: 40vw;
+   background-size: 100%;
+}
+#hour , #minute , #second ,#dot ,#center , #a,#b,#c,#d,#e,#f,#g,#h,#i,#j,#k,#l{
+position: absolute;
+background: white;
+border-radius: 10px;
+transform-origin: bottom;
+}
+#minute{
+width: 2%;
+height: 35%;
+top: 13.5%;
+left: 47.6%;
+opacity: 0.8;
+
+
+}
+#hour{
+width: 2%;
+height: 28%;
+top: 22%;
+left: 48%;
+opacity: 0.8;
+      
+}
+
+#second{
+   width: 1%;
+   height: 32%;
+   top: 17%;
+   left: 49%;
+   opacity: 0.8; 
+}
+#dot{
+   width: 9%;
+   height: 9%;
+   top: 44%;
+   left: 44%;
+   opacity: 0.8;
+   border-radius: 50%;
+}
+#center{
+   width: 5%;
+   height: 5%;
+   top: 46%;
+   left: 46%;
+   opacity: 0.8;
+   border-radius: 50%;
+   color: black;
+}
+#a{
+   width: 5%;
+   height: 5%;
+   top:11%;
+   left:47.6%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #b{
+   width: 5%;
+   height: 5%;
+   top:15%;
+   left:66%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #c{
+   width: 5%;
+   height: 5%;
+   top:29.5%;
+   left:79%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #d{
+   width: 5%;
+   height: 5%;
+   top:47.5%;
+   left:83%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #e{
+   width: 5%;
+   height: 5%; 
+   top:66.5%;
+   left:78.5%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #f{
+   width: 5%;
+   height: 5%; 
+   top:80.5%;
+   left:67%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #g{
+   width: 5%;
+   height: 5%;
+   top:85%;
+   left:47.6%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #h{
+   width: 5%;
+   height: 5%;
+   top:78.5%;
+   left:27.5%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #i{
+   width: 5%;
+   height: 5%;
+   top:64.2%;
+   left:14.7%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #j{
+   width: 5%;
+   height: 5%;
+   top:47.5%;
+   left:10%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #k{
+   width: 5%;
+   height: 5%;
+   top:29.6%;
+   left:15%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
+  #l{
+   width: 5%;
+   height: 5%;
+   top:15%;
+   left:28%;
+   color: white;
+   font-size: xx-large;
+   background: black;
+  }
